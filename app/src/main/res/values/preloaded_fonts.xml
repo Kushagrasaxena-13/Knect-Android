@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+
+        <item>@font/aclonica</item>
+        <item>@font/acme</item>
+        <item>@font/advent_pro_light</item>
+        <item>@font/akronim</item>
+        <item>@font/alex_brush</item>
+        <item>@font/arapey</item>
+        <item>@font/bubbler_one</item>
+        <item>@font/capriola</item>
+        <item>@font/cardo</item>
+        <item>@font/cardo_bold</item>
+        <item>@font/comfortaa</item>
+        <item>@font/macondo_swash_caps</item>
+        <item>@font/orbitron_bold</item>
+        <item>@font/orbitron_medium</item>
+        <item>@font/oregano</item>
+    </array>
+</resources>
